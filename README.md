@@ -1,2 +1,2 @@
 # defi-arbitrage-bot
-DeFi arbitrage bot for cross-chain trading opportunities
+A Rust-based decentralized finance (DeFi) arbitrage bot designed to identify and exploit cross-chain trading opportunities. The bot integrates with decentralized exchanges (e.g., Uniswap) and centralized exchange APIs to fetch market data, analyze price differences, and execute arbitrage trades. It supports configurable trading pairs, database storage for trade history, and a CLI interface for easy operation.
